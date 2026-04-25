@@ -5,4 +5,4 @@
 #####   to play pause and navigate through song easily . 
 ##### it provides a clean UI and smooth user experiences
 ##### making it simple to enjoy music directly in the browser.
-# ✨Features
+ # ui ✨Features
