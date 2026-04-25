@@ -14,6 +14,8 @@ making it simple to enjoy music directly in the browser.
 📂Multiple song list  
 🎨Styled using css  
 🦚Fast and lightweight
+# 🌼🏵️Visit My Github
+Amrita-it👉
 # 🛠️Technologies used
 💻HTML
 🐧CSS
