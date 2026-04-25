@@ -10,15 +10,15 @@ making it simple to enjoy music directly in the browser.
 ▶️play and pause songs  
 ⏭️skip to next track  
 ⏮️Go back to previous track  
-🔊Volume control 
+🔊Volume control   
 📂Multiple song list  
 🎨Styled using css  
 🦚Fast and lightweight
 # 🌼🏵️Visit My Github
 Amrita-it👉 https://ammu9031.github.io/App/  
 # 🛠️Technologies used
-💻HTML
-🐧CSS
+💻HTML  
+🐧CSS  
 # ⚒️ How to run
 1.Download or clone the repository  
 2.Open index.html in your browser  
@@ -50,7 +50,8 @@ Add javascript controls
 Improve UI  
 Make it responsive  
 # 🦚Feedback
-If you like this project , give it a⭐on Github!  
+If you like this project   
+ give it a⭐on Github!    
 # 🐧 Author  
 Amrita kumari  
 -👩‍🎓BSC.IT Student
