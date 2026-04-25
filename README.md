@@ -1,2 +1,2 @@
-# App
-Music Playlist
+# 🎶Music playlist web App
+## About the Project
