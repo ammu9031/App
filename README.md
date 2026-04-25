@@ -5,7 +5,7 @@ player   built with HTML and CSS that allows user
 to play pause and navigate through song easily .     
 it provides a clean UI and smooth user experiences     
 making it simple to enjoy music directly in the browser.  
-# ✨ Features
+## ✨ Features
 🎧play songs using audio player  
 ▶️play and pause songs  
 ⏭️skip to next track  
@@ -14,16 +14,16 @@ making it simple to enjoy music directly in the browser.
 📂Multiple song list  
 🎨Styled using css  
 🦚Fast and lightweight
-# 🌼🏵️Visit My Github
+## 🌼🏵️Visit My Github
 Amrita-it👉 https://ammu9031.github.io/App/  
-# 🛠️Technologies used
+## 🛠️Technologies used
 💻HTML  
 🐧CSS  
-# ⚒️ How to run
+## ⚒️ How to run
 1.Download or clone the repository  
 2.Open index.html in your browser  
 3. play songs▶️  
-# 💻Project Structure
+## 💻Project Structure
 song_temp/|-index.html    
 │── index.html  
 │── k1.html  
@@ -41,20 +41,21 @@ song_temp/|-index.html
 │── zalima_song.mp3  
 │── bandeya_song.mp3  
 │── README.md  
-# Screenshots
-## 🚀![Home](https://github.com/ammu9031/App/blob/main/Home.png)
-## 🚀![Play list](https://github.com/ammu9031/App/blob/main/Play%20list.png)
-## 🚀 ![Song player](https://github.com/ammu9031/App/blob/main/Song%20player.png)
-# 🎨Future Improvements
+## Screenshots
+ 🚀![Home](https://github.com/ammu9031/App/blob/main/Home.png)
+ 🚀![Play list](https://github.com/ammu9031/App/blob/main/Play%20list.png)
+ 🚀 ![Song player](https://github.com/ammu9031/App/blob/main/Song%20player.png)
+## 🎨Future Improvements
 Add javascript controls  
 Improve UI  
 Make it responsive  
-# 🦚Feedback
+Create playlist system  
+## 🦚Feedback
 If you like this project   
  give it a⭐on Github!    
-# 🐧 Author  
+## 🐧 Author  
 Amrita kumari  
--👩‍🎓BSC.IT Student
+👩‍🎓BSC.IT Student
 
 
  
