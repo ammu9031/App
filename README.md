@@ -15,7 +15,7 @@ making it simple to enjoy music directly in the browser.
 🎨Styled using css  
 🦚Fast and lightweight
 # 🌼🏵️Visit My Github
-Amrita-it👉
+Amrita-it👉 https://ammu9031.github.io/App/  
 # 🛠️Technologies used
 💻HTML
 🐧CSS
