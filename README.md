@@ -40,9 +40,9 @@ song_temp/|-index.html
 │── bandeya_song.mp3  
 │── README.md  
 # Screenshots
-![Home](https://github.com/ammu9031/App/blob/main/Home.png)
-![Play list](https://github.com/ammu9031/App/blob/main/Play%20list.png)
-![Song player](https://github.com/ammu9031/App/blob/main/Song%20player.png)
+## 🚀![Home](https://github.com/ammu9031/App/blob/main/Home.png)
+## 🚀![Play list](https://github.com/ammu9031/App/blob/main/Play%20list.png)
+## 🚀 ![Song player](https://github.com/ammu9031/App/blob/main/Song%20player.png)
 # 🎨Future Improvements
 Add javascript controls  
 Improve UI  
